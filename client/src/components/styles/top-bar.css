@@ -1,0 +1,15 @@
+.top-bar {
+  background: rgb(7, 29, 54); }
+  .top-bar ul {
+    background: rgb(7, 29, 54); }
+    .top-bar ul li {
+      background: rgb(7, 29, 54); }
+    .top-bar ul li:not(.menu-text):hover {
+      background: rgb(3, 148, 184); }
+      .top-bar ul li a {
+        color: #fff; }
+      .top-bar ul li span {
+        color: #fff;
+      }
+
+

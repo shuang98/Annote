@@ -1,0 +1,13 @@
+.tool-bar {
+    background: rgb(103, 167, 226); }
+    .tool-bar ul {
+      background: rgb(103, 167, 226); }
+      .tool-bar ul li {
+        background: rgb(103, 167, 226); }
+      .tool-bar ul li:not(.menu-text):hover {
+        background: rgb(3, 148, 184); }
+        .tool-bar ul li a {
+          color: #fff; }
+        .tool-bar ul li span {
+          color: #fff;
+        }
