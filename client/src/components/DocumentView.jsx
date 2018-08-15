@@ -88,7 +88,7 @@ class DocumentView extends Component {
             <div className="callout">
               <center>
                 <h4>Sharable Link:</h4>
-                {'localhost:3000/d/' + document.url}
+                {'/d/' + document.url}
               </center>
             </div>
 
