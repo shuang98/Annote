@@ -5,6 +5,7 @@ import registerServiceWorker from './registerServiceWorker';
 import { Provider } from "react-redux";
 import store from "./store";
 import { BrowserRouter } from 'react-router-dom';
+var Foundation = require('foundation-sites/dist/js/foundation');
 
 ReactDOM.render(
     <BrowserRouter>

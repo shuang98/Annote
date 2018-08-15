@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import $ from 'jquery';
-import 'foundation-sites';
 import 'foundation-sites/dist/css/foundation.min.css';
 import { updateDocument, updateSelected, fetchNotes, selectSegment } from "../actions/documentActions";
 import { setCurrentPage } from "../actions/pageActions";

@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import $ from 'jquery';
-import 'foundation-sites';
 import 'foundation-sites/dist/css/foundation.min.css';
 import './styles/tool-bar.css'
 import { setCurrentPage } from "../actions/pageActions";
