@@ -6,4 +6,6 @@
 
 Deployed on https://shielded-cliffs-49866.herokuapp.com/
 
+Go to https://shielded-cliffs-49866.herokuapp.com/d/_rtr7996sh for a sample document.
+
 Technologies used: Express.js, Postgres, React.js
