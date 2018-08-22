@@ -5,3 +5,5 @@
 2. Share generated link that allows others to add notes to your text!
 
 Deployed on https://shielded-cliffs-49866.herokuapp.com/
+
+Technologies used: Express.js, Postgres, React.js
